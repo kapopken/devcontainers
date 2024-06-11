@@ -1,0 +1,224 @@
+2024-06-10T02:04:12.523Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:04:12.524Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:04:12.524Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:04:12.525Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:04:32.575Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:04:32.576Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:04:32.576Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:04:32.577Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:05:13.617Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:05:13.617Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:05:13.617Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:05:13.618Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:05:25.279Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:05:25.279Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:05:25.279Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:05:25.280Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:05:41.643Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:05:41.643Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:05:41.643Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:05:41.644Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:07:18.728Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:07:18.728Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:07:18.728Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:07:18.729Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:07:38.172Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:07:38.173Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:07:38.173Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:07:38.174Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:07:46.301Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:07:46.301Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:07:46.301Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:07:46.302Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:07:49.519Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:07:49.519Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:07:49.519Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:07:49.520Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:08:19.311Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:08:19.311Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:08:19.311Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:08:19.312Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:08:45.949Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:08:45.950Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:08:45.950Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:08:45.951Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:08:55.429Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:08:55.429Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:08:55.429Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:08:55.430Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:09:25.676Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:09:25.677Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:09:25.677Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:09:25.678Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:09:31.479Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:09:31.479Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:09:31.479Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:09:31.480Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:10:12.787Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:10:12.787Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:10:12.787Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:10:12.788Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:10:20.062Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:10:20.062Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:10:20.062Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:10:20.063Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:10:29.134Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:10:29.134Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:10:29.134Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:10:29.135Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:10:44.618Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:10:44.618Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:10:44.618Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:10:44.619Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:10:58.938Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:10:58.938Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:10:58.938Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:10:58.939Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:11:06.313Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:11:06.313Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:11:06.313Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:11:06.315Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:11:23.959Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:11:23.959Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:11:23.960Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:11:23.960Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:11:30.922Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:11:30.923Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:11:30.923Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:11:30.923Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:12:50.361Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:12:50.361Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:12:50.362Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:12:50.362Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:13:07.835Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:13:07.836Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:13:07.836Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:13:07.836Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:13:49.851Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:13:49.851Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:13:49.851Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:13:49.852Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:14:32.486Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:14:32.487Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:14:32.487Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:14:32.488Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:14:43.476Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:14:43.477Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:14:43.477Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:14:43.478Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:14:48.601Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:14:48.601Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:14:48.602Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:14:48.602Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:15:35.940Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:15:35.940Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:15:35.940Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:15:35.941Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:16:25.651Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:16:25.651Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:16:25.651Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:16:25.652Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:16:41.102Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:16:41.102Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:16:41.102Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:16:41.103Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:19:09.026Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:19:09.027Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:19:09.027Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:19:09.028Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:19:32.399Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:19:32.399Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:19:32.399Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:19:32.400Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:19:52.885Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:19:52.886Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:19:52.886Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:19:52.886Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:20:20.198Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:20:20.199Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:20:20.199Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:20:20.199Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:23:07.365Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:23:07.366Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:23:07.366Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:23:07.366Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:24:44.744Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:24:44.744Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:24:44.745Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:24:44.745Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:25:49.836Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:25:49.836Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:25:49.836Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:25:49.837Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:25:56.402Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:25:56.402Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:25:56.402Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:25:56.403Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:26:51.423Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:26:51.423Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:26:51.423Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:26:51.424Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:27:34.920Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:27:34.920Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:27:34.920Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:27:34.921Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:27:43.880Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:27:43.880Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:27:43.880Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:27:43.881Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:28:01.310Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:28:01.310Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:28:01.310Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:28:01.311Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:28:16.176Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:28:16.176Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:28:16.177Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:28:16.179Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:28:49.988Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:28:49.989Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:28:49.989Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:28:49.990Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:29:01.600Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:29:01.600Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:29:01.601Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:29:01.601Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:32:16.467Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:32:16.468Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:32:16.468Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:32:16.469Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:33:27.998Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:33:27.998Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:33:27.998Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:33:27.999Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:33:54.249Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:33:54.250Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:33:54.250Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:33:54.250Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:34:19.096Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:34:19.096Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:34:19.096Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2024-06-10T02:34:19.097Z [INFO]  CLI command args: []string{"fmt"}
+2024-06-10T02:36:25.578Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:36:25.578Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:36:25.579Z [INFO]  CLI args: []string{"terraform", "fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:36:25.579Z [INFO]  CLI command args: []string{"fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:36:34.272Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:36:34.272Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:36:34.273Z [INFO]  CLI args: []string{"terraform", "fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:36:34.273Z [INFO]  CLI command args: []string{"fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:37:23.099Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:37:23.100Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:37:23.100Z [INFO]  CLI args: []string{"terraform", "fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:37:23.101Z [INFO]  CLI command args: []string{"fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:37:54.963Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:37:54.963Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:37:54.963Z [INFO]  CLI args: []string{"terraform", "fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:37:54.964Z [INFO]  CLI command args: []string{"fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:38:08.001Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:38:08.001Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:38:08.001Z [INFO]  CLI args: []string{"terraform", "fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:38:08.002Z [INFO]  CLI command args: []string{"fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:38:16.186Z [INFO]  Terraform version: 1.7.5
+2024-06-10T02:38:16.186Z [INFO]  Go runtime version: go1.21.8
+2024-06-10T02:38:16.186Z [INFO]  CLI args: []string{"terraform", "fmt", "-no-color", "-diff", "-write=false", "-recursive"}
+2024-06-10T02:38:16.187Z [INFO]  CLI command args: []string{"fmt", "-no-color", "-diff", "-write=false", "-recursive"}

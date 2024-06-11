@@ -1,0 +1,10 @@
+formatter: markdown
+recursive:
+  enabled: true
+  path: .
+  include_main: false
+output:
+ file: "README.md"
+ mode: inject
+settings:
+ hide-empty: true
